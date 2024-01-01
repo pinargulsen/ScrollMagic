@@ -1,13 +1,7 @@
 # ScrollMagic <a href='https://github.com/janpaepke/ScrollMagic/blob/master/CHANGELOG.md' class='version' title='Whats New?'>v2.0.8</a> [![Build Status](https://api.travis-ci.org/janpaepke/ScrollMagic.svg?branch=master)](https://travis-ci.org/janpaepke/ScrollMagic)
-
 ### The javascript library for magical scroll interactions.
-
 [![Donate](https://scrollmagic.io/assets/img/btn_donate.svg 'Shut up and take my money!')](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8BJC8B58XHKLL 'Shut up and take my money!')
-
 **Quicklinks:** [About](#about-the-library) | [Download](#availability) | [Installation](#installation) | [Usage](#usage) | [Help](#help) | [Compatibility](#browser-support) | [Author](#about-the-author) | [License](#license) | [Thanks](#thanks)
-
----
-
 ### 🚨 **ScrollMagic 3.0 is on the horizon.** [Helpers & Testers wanted](https://github.com/janpaepke/ScrollMagic/issues/982)! 🚨
 
 ---
